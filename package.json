@@ -1,0 +1,14 @@
+{
+    "name": "@kaartiksingh23/tiny",
+    "version": "2.2.9",
+    "description": "String utility functions.",
+    "homepage": "https://github.com/kaartiksingh23/tiny#readme",
+    "license": "MIT",
+    "repository": "kaartiksingh23/tiny",
+    "main": "index.js",
+    "keywords": [
+        "npm",
+        "package",
+        "string"
+    ]
+}
